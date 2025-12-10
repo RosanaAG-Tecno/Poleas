@@ -1,0 +1,5 @@
+{
+  "name": "MechanicSim: Pulley & Belt Analysis",
+  "description": "An interactive engineering simulation for friction wheels and belt drive systems. Calculate transmission ratios, torque, and velocity with real-time AI analysis.",
+  "requestFramePermissions": []
+}
